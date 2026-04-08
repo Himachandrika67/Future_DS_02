@@ -37,12 +37,6 @@ The dataset includes the following key columns:
 
 ---
 
-## 📊 Dashboard
-
-![Dashboard](dashboard.png)
-
----
-
 ## 📈 Analysis Performed
 
 ### 🔹 Churn by Contract Type
